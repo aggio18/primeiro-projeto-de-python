@@ -1,6 +1,6 @@
 while True :
     menor = 1
-    maior = 100
+    maior = 1000
     tentativas = 0
 
     while True: 
